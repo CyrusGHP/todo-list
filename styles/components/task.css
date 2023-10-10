@@ -1,0 +1,12 @@
+.taskItem {
+  padding: 1em;
+  border: 1px solid #000;
+  margin-top: 2em;
+}
+
+input {
+  display: block;
+  width: 100%;
+  text-align: center;
+  user-select: none;
+}
