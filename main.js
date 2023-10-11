@@ -1,10 +1,3 @@
-import '../styles/normalize.css'
-import '../styles/style.css'
-import '../styles/components/task.css'
-import '../styles/components/buttons.css'
-import '../styles/utils.css'
-
-
 const addTaskBtn = document.getElementById("addTaskBtn")
 const taskList = document.getElementById("taskList")
 let taskInput = document.getElementById("taskInput");
