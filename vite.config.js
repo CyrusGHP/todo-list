@@ -2,5 +2,5 @@ import { defineConfig } from "vite"
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "https://cyrusghp.github.io/"
+  base: "https://cyrusghp.github.io/todo-list/",
 });
