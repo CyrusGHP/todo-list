@@ -247,6 +247,5 @@ function clearTemporaryStorage(storedData) {
 
   10/11/2023 09:00
   ### Successfully Deployed as Static Website
-  ### Clearly 
 
 */
