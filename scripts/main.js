@@ -245,4 +245,8 @@ function clearTemporaryStorage(storedData) {
   Ultimate Goal is to Re-create the web app from scratch with efficient functional code 
   and file management
 
+  10/11/2023 09:00
+  ### Successfully Deployed as Static Website
+  ### Clearly 
+
 */
